@@ -2,3 +2,4 @@
 1.昨天攀老师分享的ES shard allocation filtering 视频: 
 链接: http://pan.baidu.com/s/1dEL8kNJ 密码: tds6   
 2.Kibana
+3.elasticsearch分词
