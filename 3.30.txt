@@ -1,3 +1,4 @@
-Note3.30
-昨天攀老师分享的ES shard allocation filtering 视频: 
-链接: http://pan.baidu.com/s/1dEL8kNJ 密码: tds6  
+锘縉ote3.30
+鏄ㄥぉ鏀�鑰佸笀鍒嗕韩鐨凟S shard allocation filtering 瑙嗛: 
+閾炬帴: http://pan.baidu.com/s/1dEL8kNJ 瀵嗙爜: tds6  
+222222222
